@@ -1,0 +1,120 @@
+* [33m40995802[m[33m ([m[1;31morigin/dependabot/npm_and_yarn/babel/preset-env-7.15.6[m[33m)[m Bump @babel/preset-env from 7.15.4 to 7.15.6
+[31m|[m * [33mc9936b2b[m[33m ([m[1;31morigin/dependabot/npm_and_yarn/datatables.net-bs4-1.11.2[m[33m)[m Bump datatables.net-bs4 from 1.11.1 to 1.11.2
+[31m|[m[31m/[m  
+[31m|[m * [33ma9b7aef2[m[33m ([m[1;31morigin/dependabot/npm_and_yarn/datatables.net-searchbuilder-bs4-1.2.1[m[33m)[m Bump datatables.net-searchbuilder-bs4 from 1.2.0 to 1.2.1
+[31m|[m[31m/[m  
+[31m|[m * [33md6cd54eb[m[33m ([m[1;31morigin/dependabot/npm_and_yarn/datatables.net-1.11.2[m[33m)[m Bump datatables.net from 1.11.1 to 1.11.2
+[31m|[m[31m/[m  
+[31m|[m * [33m93aeccb1[m[33m ([m[1;31morigin/dependabot/npm_and_yarn/eslint-plugin-unicorn-36.0.0[m[33m)[m Bump eslint-plugin-unicorn from 35.0.0 to 36.0.0
+[31m|[m[31m/[m  
+* [33m3bff93f6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Bump @babel/preset-env from 7.15.0 to 7.15.4 (#3928)
+* [33m31177a4e[m Bump datatables.net from 1.10.25 to 1.11.1 (#3927)
+* [33m840ca6ee[m Bump @babel/core from 7.15.0 to 7.15.5 (#3929)
+* [33mb221ad05[m Bump autoprefixer from 10.3.3 to 10.3.4 (#3930)
+* [33m1042c39a[m Bump datatables.net-bs4 from 1.10.25 to 1.11.1 (#3931)
+* [33mf2066817[m Bump vnu-jar from 21.6.11 to 21.9.2 (#3932)
+* [33mdd952299[m Bump datatables.net-scroller-bs4 from 2.0.4 to 2.0.5 (#3914)
+* [33m4d8c608c[m Bump rollup from 2.56.2 to 2.56.3 (#3918)
+* [33m2e76313b[m Bump datatables.net-searchpanes-bs4 from 1.3.0 to 1.4.0 (#3920)
+* [33md8cb62f9[m Bump terser from 5.7.1 to 5.7.2 (#3916)
+* [33ma6f4d95b[m Bump autoprefixer from 10.3.1 to 10.3.3 (#3915)
+* [33m245819d5[m Bump codemirror from 5.62.2 to 5.62.3 (#3904)
+* [33me4981bd9[m Bump tar from 6.1.4 to 6.1.11 (#3923)
+* [33mfdf37850[m Bump eslint-plugin-import from 2.24.1 to 2.24.2 (#3922)
+* [33mb78595ba[m Bump datatables.net-keytable-bs4 from 2.6.2 to 2.6.4 (#3921)
+* [33me20096f7[m Bump datatables.net-searchbuilder-bs4 from 1.1.0 to 1.2.0 (#3919)
+* [33mafc5fb71[m fix autofill bug in chrome
+* [33me066cc40[m Bump eslint-config-xo from 0.36.0 to 0.38.0 (#3878)
+* [33me7d58e27[m Bump eslint-plugin-import from 2.23.4 to 2.24.1 (#3901)
+* [33m53b1ec22[m Bump eslint-plugin-compat from 3.11.1 to 3.13.0 (#3902)
+*   [33maba665b0[m Merge pull request #3889 from smtbos/master
+[36m|[m[1;31m\[m  
+[36m|[m * [33m728592ab[m Spelling Mistake Removed
+* [1;31m|[m [33m29cf644e[m Bump path-parse from 1.0.6 to 1.0.7 (#3888)
+* [1;31m|[m [33mf8adaeda[m Bump uplot from 1.6.14 to 1.6.15 (#3893)
+* [1;31m|[m [33m1838c7b8[m Bump rollup from 2.56.1 to 2.56.2 (#3895)
+* [1;31m|[m [33m34ae27bb[m Bump clean-css-cli from 5.3.2 to 5.3.3 (#3879)
+* [1;31m|[m [33m9c00bd9e[m Bump @babel/preset-env from 7.14.9 to 7.15.0 (#3880)
+* [1;31m|[m [33m3e414a0d[m Bump jszip from 3.7.0 to 3.7.1 (#3887)
+* [1;31m|[m [33m4fedd162[m Bump eslint-plugin-unicorn from 34.0.1 to 35.0.0 (#3883)
+[1;31m|[m[1;31m/[m  
+* [33m7cee95d1[m Bump pdfmake from 0.1.71 to 0.2.2 (#3881)
+* [33m98cc8210[m Bump @fortawesome/fontawesome-free from 5.15.3 to 5.15.4 (#3882)
+* [33m45a28c43[m Bump rollup from 2.55.1 to 2.56.1 (#3884)
+* [33mdf30cb67[m Bump @babel/core from 7.14.8 to 7.15.0 (#3885)
+* [33m889456ac[m Bump concurrently from 6.2.0 to 6.2.1 (#3886)
+* [33me97cbba9[m Bump tar from 6.1.0 to 6.1.4 (#3874)
+* [33m05a66e3b[m Bump rollup from 2.53.2 to 2.55.1 (#3863)
+* [33ma9094a81[m Bump fullcalendar from 5.8.0 to 5.9.0 (#3867)
+* [33ma928e199[m Bump clean-css-cli from 5.3.0 to 5.3.2 (#3868)
+* [33m16c8deac[m Bump eslint from 7.31.0 to 7.32.0 (#3869)
+* [33m64dac93c[m Bump @babel/preset-env from 7.14.8 to 7.14.9 (#3870)
+* [33m618f3b7a[m Bump browser-sync from 2.27.4 to 2.27.5 (#3871)
+* [33m90059c8e[m Bump rollup from 2.53.2 to 2.54.0 (#3853)
+* [33m9ee4848d[m Bump @babel/preset-env from 7.14.7 to 7.14.8 (#3854)
+* [33m26c84e39[m fix iframe mode with hash-links
+* [33m1098533b[m add navbar-nav-not-expanded class
+* [33m68bac2b6[m bump bundlewatch sizes
+* [33mbb332b84[m add note for multiple treeview's
+* [33m52ff4237[m fix invisible nav items if there is a second nav in content
+* [33m2c4d879d[m add discord invite badge on README.md
+* [33m47cbeef3[m Bump stylelint-config-twbs-bootstrap from 2.2.1 to 2.2.3 (#3852)
+* [33m50950e60[m Bump postcss from 8.3.5 to 8.3.6 (#3855)
+* [33m74fa75ff[m Bump jszip from 3.6.0 to 3.7.0 (#3856)
+* [33m3d48359c[m Bump codemirror from 5.62.0 to 5.62.2 (#3857)
+* [33md2b1d2ee[m Bump uplot from 1.6.13 to 1.6.14 (#3858)
+* [33m2ac9bd22[m Bump @babel/core from 7.14.6 to 7.14.8 (#3859)
+* [33m8e1d80da[m Bump eslint from 7.30.0 to 7.31.0 (#3842)
+* [33m97ac629f[m Bump stylelint-config-twbs-bootstrap from 2.2.1 to 2.2.2 (#3843)
+* [33m8bb3ebf9[m Bump eslint-plugin-compat from 3.9.0 to 3.11.1 (#3844)
+* [33maa8109db[m Bump autoprefixer from 10.3.0 to 10.3.1 (#3845)
+* [33m35b667aa[m Bump rollup from 2.53.1 to 2.53.2 (#3846)
+* [33ma9f843b7[m Bump addressable from 2.7.0 to 2.8.0 in /docs (#3834)
+* [33m869665c9[m Bump autoprefixer from 10.2.6 to 10.3.0 (#3831)
+* [33mff88b5a5[m Bump rollup from 2.52.7 to 2.53.1 (#3830)
+* [33mca4ebce4[m Bump nodemon from 2.0.9 to 2.0.12 (#3832)
+* [33m5ed42b14[m add z-index on control-sidebar in layout-boxed
+* [33m9d099b11[m fix sidebar custom area placing on mobile devices
+* [33ma7ef0060[m enhanced demo.js alert with a 15min timeout
+* [33m1f1d19ad[m fix click sidebar link if iframe-mode isn't active
+* [33me6139c15[m add demo.js reminder if not loaded via browserSync
+* [33mc40e5987[m fix badge link with custom accent
+* [33m4a2a28f7[m fix height bug w/o footer
+* [33mad2cdc7a[m fix custom area with body.text-sm
+* [33meb5be81a[m further iframe fixes & changes
+* [33md6b66aa3[m run npm audit fix
+* [33m6dd6d2f5[m fix dark-mode (text|link)-(black|dark) color switch
+* [33mf1afbfe9[m Bump eslint-plugin-unicorn from 32.0.1 to 34.0.1 (#3819)
+* [33m904e0b1d[m Bump rollup from 2.52.3 to 2.52.7 (#3816)
+* [33m76bb2263[m Bump terser from 5.7.0 to 5.7.1 (#3818)
+* [33m18119d93[m Bump browser-sync from 2.27.3 to 2.27.4 (#3820)
+* [33m60677a3f[m Bump nodemon from 2.0.7 to 2.0.9 (#3821)
+* [33m19b76972[m Bump eslint from 7.29.0 to 7.30.0 (#3817)
+* [33mf527fc95[m Bump codemirror from 5.61.1 to 5.62.0 (#3810)
+* [33me4dc1ca2[m Bump browser-sync from 2.26.14 to 2.27.3 (#3809)
+* [33mabd676c9[m Bump rollup from 2.52.2 to 2.52.3 (#3808)
+* [33maec3ba6a[m Bump @babel/preset-env from 7.14.5 to 7.14.7 (#3807)
+* [33m24f28c1d[m Bump rollup from 2.51.2 to 2.52.2 (#3802)
+* [33m07f37445[m Bump eslint from 7.28.0 to 7.29.0 (#3801)
+* [33mb0513606[m Bump fullcalendar from 5.7.2 to 5.8.0 (#3795)
+* [33mf85f368d[m Bump datatables.net-autofill-bs4 from 2.3.7 to 2.3.9 (#3793)
+* [33m77458a14[m Bump postcss from 8.3.2 to 8.3.5 (#3796)
+* [33me3f18d68[m Bump rollup from 2.51.2 to 2.52.1 (#3797)
+* [33m426d17a0[m Bump @babel/core from 7.14.5 to 7.14.6 (#3799)
+* [33m38a979b0[m Bump uplot from 1.6.12 to 1.6.13 (#3800)
+*   [33mf03e6f99[m Merge pull request #3786 from Shidersz/fix-treeview-menu
+[1;32m|[m[1;33m\[m  
+[1;32m|[m * [33m39429d88[m [Treeview Menu]: Fix childs behaviour when closing parent treeview menu.
+[1;32m|[m[1;32m/[m  
+* [33m91edc7f3[m Bump @babel/preset-env from 7.14.4 to 7.14.5 (#3783)
+* [33mc0532c57[m Bump datatables.net-responsive-bs4 from 2.2.8 to 2.2.9 (#3779)
+* [33mb7a13035[m Bump stylelint-config-twbs-bootstrap from 2.2.0 to 2.2.1 (#3781)
+* [33mc9d27822[m Bump vnu-jar from 21.4.9 to 21.6.11 (#3780)
+* [33m58c62114[m Bump @babel/core from 7.14.3 to 7.14.5 (#3782)
+* [33meb5332d7[m Bump rollup from 2.51.0 to 2.51.2 (#3784)
+* [33m9e8fed13[m Bump postcss from 8.3.0 to 8.3.2 (#3785)
+*   [33mbea0e5aa[m Merge pull request #3696 from Shidersz/fix_default_btn_disabled_style
+[1;34m|[m[1;35m\[m  
+[1;34m|[m * [33me1567848[m [Gradient Buttons]: Fix to keep font color on hover event.
+[1;34m|[m * [33m2aa1da0d[m Add some fixes
+[1;34m|[m * [33me106166f[m [build/scss]: F
